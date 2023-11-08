@@ -1,2 +1,2 @@
-# StudentPortal
-APP TO TAKE THE STUDENT DETAILS AND SUBMIT IT TO THE AUTHORITIES
+# VV_StudentPortal
+VV student portal help to gather student information in secure way
